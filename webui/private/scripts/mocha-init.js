@@ -700,7 +700,7 @@ const initializeWindows = () => {
             maximizable: false,
             paddingVertical: 0,
             paddingHorizontal: 0,
-            width: 400,
+            width: 1500,
             height: 100
         });
     };
